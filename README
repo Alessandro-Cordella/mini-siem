@@ -1,4 +1,4 @@
-#  Mini SIEM — Security Information and Event Management
+#Mini SIEM — Security Information and Event Management
 
 A lightweight SIEM API built with Python and FastAPI that correlates security events in real time and generates alerts.
 
